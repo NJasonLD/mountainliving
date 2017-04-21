@@ -1,7 +1,7 @@
 <script type="application/ld+json">
 {
   "@context":"http://schema.org",
-  "@type":"ProfessionalService",
+  "@type":"FurnitureStore",
   "@id":"http://www.mountainliving.com.tw/",
   "name": "Mountain Living 家具家飾",
   "address":[
@@ -32,6 +32,7 @@
     "description": "Mountain Living原創家具沙發，雋朗細緻的生活家飾， 專業焙調的咖啡餐飲，與經典優雅的家居香氛，創造一個嶄新形態，永續共生的複合式生活概念。",
     "email": "info@mountainliving.com.tw",
     "faxNumber": "+886-2-8192-6573",
-    "telephone":  ["+886-2-8751-5957","+886-4-2472-6899","+886-4-2259-8089"]
+    "telephone":  ["+886-2-8751-5957","+886-4-2472-6899","+886-4-2259-8089"],
+    "priceRange": "歡迎來電洽詢"
   }
 </script>
